@@ -274,6 +274,7 @@ section {
 .frist h2 {
     font-size: 1em;
     margin-bottom: 40px;
+    font-weight: 600;
 }
 
 .frist h1 {
@@ -359,6 +360,7 @@ section {
 
 .secoundone h3 {
     font-size: 3.2rem;
+    font-weight: 600;
 }
 
 .secoundone p {
@@ -436,6 +438,7 @@ section {
     line-height: 25px;
     letter-spacing: .5px;
     margin-bottom: 15px;
+    font-weight: 500;
 }
 
 .sectow:last-child {
