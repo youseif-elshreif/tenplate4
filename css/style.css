@@ -526,7 +526,7 @@ section {
     .sectwocont,
     .sectwocont img,
     .sectow {
-        width: 100%;
+        width: 98%;
     }
 
     .sectow {
@@ -546,7 +546,7 @@ section {
         position: absolute;
         transform: rotate(90deg);
         top: 36px;
-        right: -51px;
+        right: -46px;
     }
 
     .two::after {
