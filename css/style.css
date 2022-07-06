@@ -360,7 +360,6 @@ section {
 
 .secoundone h3 {
     font-size: 3.2rem;
-    font-weight: 200;
 }
 
 .secoundone p {
@@ -435,7 +434,6 @@ section {
 
 .sectwocont p {
     font-size: 1rem;
-    font-weight: 200;
     line-height: 25px;
     letter-spacing: .5px;
     margin-bottom: 15px;
@@ -647,7 +645,7 @@ section {
     .squarehole {
         width: 45px;
         height: 45px;
-        transform: translate(3px, -33px);
+        transform: translate(3px, -32px);
     }
 }
 
