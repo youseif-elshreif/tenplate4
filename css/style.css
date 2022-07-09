@@ -85,7 +85,7 @@ header li {
     position: absolute;
     bottom: 0;
     right: 0;
-
+    background-color: #222d35;
     transition: .3s ease-in-out;
 }
 
@@ -1093,6 +1093,14 @@ textarea {
         transform: translate(-15px, -10px) !important;
     }
 
+    .sev {
+        margin: 0;
+    }
+
+    .secont {
+        padding: 0;
+    }
+
     .secont:hover .square {
         transform: translate(3px, 12px) rotate(45deg) !important;
     }
@@ -1232,13 +1240,16 @@ textarea {
 }
 
 .nine a {
-    margin-left: 10px;
     font-size: 1.2rem;
     padding-top: 20px;
 }
 
 .nine li:not(:first-of-type) {
-    margin-left: 10px;
+    margin-left: 20px;
+}
+
+.nine li::after {
+    margin-top: 20px;
 }
 
 .nine2 {
